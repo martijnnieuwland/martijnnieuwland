@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [finding my way into the world of data-science](https://martijnnieuwland.github.io/martijnnieuwland/)
 
-- 👨‍💻 All of my projects are available at [https://martijnnieuwland.github.io/](https://martijnnieuwland.github.io/martijnnieuwland/)
+- 👨‍💻 All of my projects are available at [(https://martijnnieuwland.github.io/martijnnieuwland/)](https://martijnnieuwland.github.io/martijnnieuwland/)
 
 - 💬 Ask me about **Aviation or Geo-Information Systems**
 
