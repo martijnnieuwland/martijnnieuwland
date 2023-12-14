@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Martijn</h1>
-<h3 align="center">Data-scientist and Commercial pilot</h3>
+<h3 align="center">Data scientist and Commercial pilot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martijnnieuwland&label=Profile%20views&color=0e75b6&style=flat" alt="martijnnieuwland" /> </p>
 
