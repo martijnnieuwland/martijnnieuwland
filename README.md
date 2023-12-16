@@ -7,6 +7,11 @@
 
 - 🔭 I’m currently coding my way <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15" target="_blank">into the world of data-science</a>
 
+- 🔭 I’m currently coding my way <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15" target="_blank">into the world of data-science</a>
+
+- 🔭 I’m currently coding my way [into the world of data-science](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15){:target="_blank"}
+
+
 [into the world of data-science](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15){:target="_blank"}
 
 - 👨‍💻 All of my projects are available on [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
