@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=martijnnieuwland&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently coding my way [into the world of data-science](https://martijnnieuwland.github.io/martijnnieuwland/)
+- 🔭 I’m currently coding my way [into the world of data-science](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15)
 
 - 👨‍💻 All of my projects are available on [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
 
