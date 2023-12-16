@@ -5,13 +5,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=martijnnieuwland&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently coding my way [into the world of data-science](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15)
+- 🔭 I’m currently coding my way <a href=https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15, target=''>into the world of data-science</a>
 
 - 👨‍💻 All of my projects are available on [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
 
 - 💬 Ask me about **Aviation or Geo-Information Systems**
 
-- 📫 You can reach me at: **cloudsurfer.online@gmail.com**
+- 📫 You can reach me at: <cloudsurfer.online@gmail.com>
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
