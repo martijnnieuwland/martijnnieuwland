@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently coding my way <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:ff65b644-e549-48cc-8557-2abde1bc2f15" target="_blank">into the world of data-science</a>
+- 🔭 I’m currently coding my way <a href="https://wry-catsup-f06.notion.site/Martijn-Nieuwland-6beaf40a3f764758945f7f80cb772c2b?pvs=4" target="_blank">into the world of data-science</a>
 
 - 👨‍💻 All of my projects are available on [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
 
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">Connect with me at:</h3>
+<h3 align="left">Connect with me through:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martijnnieuwland" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martijn nieuwland" height="30" width="40" /></a>
 </p>
