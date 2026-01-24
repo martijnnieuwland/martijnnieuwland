@@ -1,50 +1,70 @@
-<h1 align="center">👋 Hi, I'm Martijn</h1>
-<h3 align="center">Data scientist and Commercial pilot</h3>
+# Hi, I’m Martijn Nieuwland
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=martijnnieuwland&label=Profile%20views&color=0e75b6&style=flat" alt="martijnnieuwland" /></p>
+**Backend Web Developer | Django & Cloud Applications**
 
----
+I design and build backend-focused web applications using **Python, Django, and SQL**, with an emphasis on clarity, reliability, and maintainability. My background includes developing production web systems in regulated environments, as well as enterprise-scale geo-information platforms.
 
-- 🔭 I’m currently coding my way <a href="https://wry-catsup-f06.notion.site/Martijn-Nieuwland-6beaf40a3f764758945f7f80cb772c2b?pvs=4" target="_blank">into the world of data-science</a>
-
-- 👨‍💻 All of my projects are available on [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
-
-- 💬 Ask me about **Aviation or Geo-Information Systems**
-
-- 📫 You can reach me at: <cloudsurfer.online@gmail.com>
+I am particularly interested in **startup and freelance work**, where pragmatic engineering, ownership, and shipping real systems matter.
 
 ---
 
-<h3 align="left">Connect with me through:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/martijnnieuwland" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martijn nieuwland" height="30" width="40" /></a>
-</p>
+## What I work on
+
+- Backend web applications using **Django**
+- REST APIs with **Django REST Framework**
+- Authentication, permissions, and role-based access control
+- Relational data modelling with **PostgreSQL**
+- Deployment-ready applications using **Docker**
+- Cloud-hosted services (GCP / AWS fundamentals)
 
 ---
 
-<h3 align="left">Languages and Tools I'm Using:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
-</p>
+## Selected Projects
+
+> Repositories below focus on backend design, data modelling, and production-readiness.
+
+- **Operations / Client Portal**  
+  Django-based backend with authentication, permissions, and PostgreSQL data models.
+
+- **API-First Backend Application**  
+  RESTful backend using Django REST Framework with token-based authentication.
+
+- **Cloud-Deployed Django App**  
+  Dockerized Django application deployed to a cloud platform with production configuration.
+
+*(See repositories for details and READMEs.)*
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martijnnieuwland&show_icons=true&locale=en&layout=compact" alt="martijnnieuwland" /></p>
+## Background
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martijnnieuwland&show_icons=true&locale=en" alt="martijnnieuwland" /></p>
+Before transitioning fully into software development, I worked in **safety-critical and regulated operational environments**, which strongly informs how I approach reliability, documentation, and responsibility in software systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martijnnieuwland&" alt="martijnnieuwland" /></p>
+---
+
+## Tech Stack
+
+**Backend**
+- Python, Django, Django REST Framework
+
+**Databases**
+- PostgreSQL, SQLite
+
+**Web & Infrastructure**
+- HTML, CSS, JavaScript
+- Docker
+- Linux environments
+- Nginx / Gunicorn (basic production setups)
+
+**Tooling**
+- Git, GitHub
+- Virtual environments
+- CLI / Bash
+
+---
+
+## Get in touch
+
+- GitHub: https://github.com/martijnnieuwland  
+- LinkedIn: https://linkedin.com/in/martijnnieuwland  
+- Email: martijn@cloudsurfer.io
