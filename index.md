@@ -52,7 +52,7 @@ github.com/martijnnieuwland
 <h3>Contact</h3>
 
 <p>
-Email: <a href="mailto:martijn@cloudsurfer.io">cloudsurfer.online@gmail.com</a><br>
+Email: <a href="mailto:martijn@cloudsurfer.io">martijn@cloudsurfer.io</a><br>
 LinkedIn: <a href="https://linkedin.com/in/martijnnieuwland" target="_blank" rel="noopener">
 linkedin.com/in/martijnnieuwland
 </a>
