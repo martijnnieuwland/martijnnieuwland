@@ -1,4 +1,4 @@
-# Hi, I’m Martijn Nieuwland
+# Hi, I’m Martijn
 
 **Backend Web Developer | Django & Cloud Applications**
 
