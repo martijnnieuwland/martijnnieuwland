@@ -1,70 +1,57 @@
-# Hi, I’m Martijn
+# Martijn Nieuwland
 
-**Backend Web Developer | Django & Cloud Applications**
+**Full-Stack & Backend Software Engineer**
 
-I design and build backend-focused web applications using **Python, Django, and SQL**, with an emphasis on clarity, reliability, and maintainability. My background includes developing production web systems in regulated environments, as well as enterprise-scale geo-information platforms.
+I build and maintain web applications with a focus on robust backend systems, clean API design, and modern frontends. My current work centers on developing independent projects using **Django**, **React**, **Tailwind CSS**, and **Google Cloud Platform (GCP)**.
 
-I am particularly interested in **startup and freelance work**, where pragmatic engineering, ownership, and shipping real systems matter.
-
----
-
-## What I work on
-
-- Backend web applications using **Django**
-- REST APIs with **Django REST Framework**
-- Authentication, permissions, and role-based access control
-- Relational data modelling with **PostgreSQL**
-- Deployment-ready applications using **Docker**
-- Cloud-hosted services (GCP / AWS fundamentals)
+Coming from a background in safety-critical and regulated operational environments, I place a high value on reliability, clean architecture, clear documentation, and practical maintainability.
 
 ---
 
-## Selected Projects
+## Current Focus & Projects
 
-> Repositories below focus on backend design, data modelling, and production-readiness.
+I am actively building and scaling my own web applications:
 
-- **Operations / Client Portal**  
-  Django-based backend with authentication, permissions, and PostgreSQL data models.
+- **[cloudsurfer.aero](https://cloudsurfer.aero)**  
+  A specialized platform built to support operational workflows and aviation planning. Designed for clarity, responsiveness, and reliable data handling.
 
-- **API-First Backend Application**  
-  RESTful backend using Django REST Framework with token-based authentication.
-
-- **Cloud-Deployed Django App**  
-  Dockerized Django application deployed to a cloud platform with production configuration.
-
-*(See repositories for details and READMEs.)*
+- **[ugaspilates.com](https://ugaspilates.com)**  
+  A production client site featuring custom scheduling, content management, and modern user interface components.
 
 ---
 
-## Background
+## Technical Stack
 
-Before transitioning fully into software development, I worked in **safety-critical and regulated operational environments**, which strongly informs how I approach reliability, documentation, and responsibility in software systems.
-
----
-
-## Tech Stack
-
-**Backend**
+**Backend & Data**
 - Python, Django, Django REST Framework
+- PostgreSQL, Relational Data Modeling
 
-**Databases**
-- PostgreSQL, SQLite
+**Frontend**
+- JavaScript, React, Tailwind CSS
+- HTML5, CSS3
 
-**Web & Infrastructure**
-- HTML, CSS, JavaScript
-- Docker
-- Linux environments
-- Nginx / Gunicorn (basic production setups)
+**Cloud & Infrastructure**
+- Google Cloud Platform (GCP)
+- Docker, Linux Environments, Nginx / Gunicorn
 
-**Tooling**
-- Git, GitHub
-- Virtual environments
-- CLI / Bash
+**Tooling & Process**
+- Git, GitHub, Git Workflows
+- RESTful API Architecture, Authentication & Security
 
 ---
 
-## Get in touch
+## Background & Engineering Philosophy
 
-- GitHub: https://github.com/martijnnieuwland  
-- LinkedIn: https://linkedin.com/in/martijnnieuwland  
-- Email: martijn@cloudsurfer.io
+My prior experience in safety-critical operational environments strongly shapes how I write software. I focus on:
+- **System Reliability**: Writing defensive, predictable code that handles edge cases cleanly.
+- **Maintainable Architecture**: Keeping domain logic clear and database queries efficient.
+- **Pragmatic Delivery**: Building complete, production-ready applications from backend architecture to frontend integration.
+
+---
+
+## Contact & Links
+
+- **Website**: [cloudsurfer.io](https://cloudsurfer.io)
+- **Email**: [martijn@cloudsurfer.io](mailto:martijn@cloudsurfer.io)
+- **LinkedIn**: [linkedin.com/in/martijnnieuwland](https://linkedin.com/in/martijnnieuwland)
+- **GitHub**: [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
