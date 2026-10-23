@@ -10,7 +10,7 @@ Coming from a background in safety-critical and regulated operational environmen
 
 ## Current Focus & Projects
 
-I am actively building and scaling my own web applications:
+I am actively building and scaling these web applications:
 
 - **[cloudsurfer.aero](https://cloudsurfer.aero)**  
   A specialized platform built to support operational workflows and aviation planning. Designed for clarity, responsiveness, and reliable data handling.
