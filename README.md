@@ -54,4 +54,4 @@ My prior experience in safety-critical operational environments strongly shapes 
 - **Website**: [cloudsurfer.io](https://cloudsurfer.io)
 - **Email**: [martijn@cloudsurfer.io](mailto:martijn@cloudsurfer.io)
 - **LinkedIn**: [linkedin.com/in/martijnnieuwland](https://linkedin.com/in/martijnnieuwland)
-- **GitHub**: [github.com/martijnnieuwland](https://github.com/martijnnieuwland)
+- **GitHub**: [github.com/cloudsurfer-io](https://github.com/cloudsurfer-io)
